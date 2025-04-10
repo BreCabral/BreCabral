@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, seja bem-vindo(a) ao meu GitHub! 👋
 
-<!--
-**BreCabral/BreCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Dev backend formado em Engenharia Mecatrônica cursando um MBA em Engenharia de Software.
 
-Here are some ideas to get you started:
+## 💻 Atualmente estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java ☕
+
+Go 🐹
+
+JavaScript 🌐
+
+## 🎯 Objetivo:
+Atuar como desenvolvedor backend, aplicando boas práticas de programação, contribuindo com soluções escaláveis, performáticas e bem estruturadas.
+
+## 🤝 Aberto a:
+Contribuições em projetos open source voltados a web ou robotica
+
+Participar em comunidades engajadas de devs
+
+Conexões com profissionais e mentores da área de tecnologia
+
+## 📚 Interesses:
+
+Arquitetura de software
+
+Banco de dados relacionais e não relacionais
+
+Boas práticas de desenvolvimento
